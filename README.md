@@ -1,1 +1,3 @@
-# PAtike.dev-SQL
+# Patika.dev-SQL
+
+##First SQL HW:
